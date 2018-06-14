@@ -1,4 +1,4 @@
-![Logotipo da startup](./Imagens/LogoInvistaFacil.jpg)
+![Logotipo da startup](invistafacil/Arquivos de Produção/Imagens/LogoInvistaFacil.jpg)
 # Startup Invistafacil
 
 ## Invistafacil software de controle gastos financeiros
