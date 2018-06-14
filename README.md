@@ -12,7 +12,14 @@ Temos uma área de curso sobre bitcoin, onde os usuários podem assistir vídeo 
 
 ## Releases
 ### Invistafacil Pre-alpha v0.02
-Descrição...
+Versão em fase Pre-alpha v0.02, contém muitos bugs, não possui todas as implementações planejadas, em fase de testes e resolução de bugs.
+### Implementações feitas:
+* Telas de login, Cadastro, Lançamentos e Perfil User estão completas.
+* Conexão com o banco de dados funcional.
+* Tela de login e Cadastro funcional, gravando no banco de dados e buscando com êxito.
+### Bugs encontrados:
+* Formulários de Perfil User, Conta Banco e Lançamentos não funcionam com o banco, mas funcionam e inserem dados somente nos arquivos de teste.
+* Implementação de Padrão de projeto Singleton precisa ser arrumada e aprimorada.
 
 ## Equipe de desenvolvimento
 * Vinicius Maioralli de Santana
