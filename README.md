@@ -9,3 +9,12 @@ O software vai além de uma ferramenta de controle de gastos, nós temos a área
 
 ## Novas tendências Criptomoedas
 Temos uma área de curso sobre bitcoin, onde os usuários podem assistir vídeo aulas sobre essas novas moedas, e terá dicas de como investir nessas novas moedas.
+
+## Releases
+### Invistafacil v1.0
+Descrição...
+
+## Equipe de desenvolvimento
+* Vinicius Maioralli de Santana
+* George Alan Rufo
+* Eduardo Junior de Souza Teixeira
